@@ -1,5 +1,13 @@
 # :climbing: Ken Bonnette 🚵
-I'm a full-stack developer who wishes there were more hours in the day to explore the endless world of programming. As an amateur aspiring to become a pro, I find joy in building projects that help me grow and satisfy my curiosity. I'm excited about deepening my knowledge of technologies I already know while learning additional languages and technologies along the way. At present, I am working on a bouldering competitinon app and staying consistent with DS&A.
+I'm currently making the shift from logistics to software development. It's been an exciting journey of learning and growth so far and I am very happy to have found this path.
+
+My journey began in the summer of 2022 when I took the initiative to teach myself the fundamentals of programming. Over several months, I dedicated myself to solving coding challenges, crafting small web apps, and delving deeper into Python and Javascript. As my interest grew, I became fully immersed in the world of software development.
+
+Once I knew this is something I truly enjoyed, I enrolled in a 6-month non-profit bootcamp for military veterans. The curriculum layed a solid foundation for full stack web development, teaching front-end and back-end frameworks along with Docker, PostgreSQL, and AWS. I have since used these skills to develop, containerize, and deploy full-stack applications which are pinned below with links in the README file.
+
+Right now, I'm deep into creating a bouldering competition web app, a project that blends my programming skills with my passion for rock climbing. And to keep improving my knowledge of computer science fundamentals, I'm also tackling LeetCode's Data Structures and Algorithms course.
+
+
 
 ## Tools and Languages
 <img align="left" alt="name_here" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
