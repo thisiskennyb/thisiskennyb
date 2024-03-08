@@ -5,7 +5,7 @@ My journey began in the summer of 2022 when I took the initiative to teach mysel
 
 Once I knew this is something I truly enjoyed, I enrolled in a 6-month non-profit bootcamp for military veterans. The curriculum layed a solid foundation for full stack web development, teaching front-end and back-end frameworks along with Docker, PostgreSQL, and AWS. I have since used these skills to develop, containerize, and deploy full-stack applications which are pinned below with links in the README file.
 
-Right now, I'm deep into creating a bouldering competition web app, a project that blends my programming skills with my passion for rock climbing. And to keep improving my knowledge of computer science fundamentals, I'm also tackling LeetCode's Data Structures and Algorithms course.
+Right now, I'm deep into creating a bouldering competition web app, a project that blends my programming skills with my passion for rock climbing. I am also working my way through leetcode's data structures and algorithms course.
 
 
 
